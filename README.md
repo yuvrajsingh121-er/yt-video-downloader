@@ -37,5 +37,5 @@ Make sure you have [Python](https://www.python.org/) installed on your system.
 ### Step 1: Clone or Download the Repository
 
 ```bash
-git clone [https://github.com/your-username/video-downloader.git](https://github.com/your-username/video-downloader.git)
+git clone [(https://github.com/your-username/video-downloader.git)](https://github.com/yuvrajsingh121-er/yt-video-downloader)
 cd video-downloader
